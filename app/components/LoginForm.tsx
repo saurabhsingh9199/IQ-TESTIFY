@@ -1,0 +1,3 @@
+<form className="relative flex flex-col gap-y-4 bg-white/10 backdrop-blur-lg shadow-2xl border border-white/20 p-8 rounded-2xl before:absolute before:inset-0 before:rounded-2xl before:p-[1px] before:bg-gradient-to-r before:from-white/20 before:via-white/10 before:to-white/20 before:opacity-50 before:blur-[1px] hover:before:opacity-70 before:transition-opacity before:-z-10">
+  // ... existing code ...
+</form> 
